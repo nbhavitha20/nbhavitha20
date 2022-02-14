@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nbhavitha20
 - 👀 I’m interested in artificial intelligence/machine learning
-- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me nbhavitha20@gmail.com
 
